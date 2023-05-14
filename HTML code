@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Eastside Journal of Science and Medicine</title>
+</head>
+<body>
+    <h1> Eastside Journal of Science and Medicine </h1>
+    <img src="https://i.ytimg.com/vi/2NL0uYruJ4U/maxresdefault.jpg" width="500" height="300">
+    
+    <p>Explore the latest articles by EHS students!
+    </p>
+    <ul>
+        <li>Cognitive science articles </li>
+        <li>Dermatology articles </li>
+        </ul>
+
+</body>
+</html>
+
